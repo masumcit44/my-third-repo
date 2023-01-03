@@ -1,7 +1,15 @@
-.push{
+.secondpush{
     font-weight: bold;
     font-family: cursive;
 }
 h1{
     text-align: center;
+}
+.thirdpus{
+    font-family: sans-serif;
+    color: aqua;
+}
+h2{
+    text-align: end;
+    color: blueviolet;
 }
